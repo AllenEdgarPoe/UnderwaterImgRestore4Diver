@@ -1,0 +1,7 @@
+examples/
+checkpoints/
+results
+venv/
+loadingProgressBar.py
+.idea
+__pycache__
