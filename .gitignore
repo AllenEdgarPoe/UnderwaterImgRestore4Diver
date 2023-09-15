@@ -5,3 +5,8 @@ venv/
 loadingProgressBar.py
 .idea
 __pycache__
+test.py
+build
+dist
+main.spec
+config.ini

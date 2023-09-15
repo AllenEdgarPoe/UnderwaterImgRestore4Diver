@@ -13,8 +13,12 @@ from moviepy.editor import AudioFileClip
 import time
 from PyQt5.QtWidgets import *
 from loadingProgressBar import LoadingProgressBar
+from PyQt5 import uic
 
-class Main(QDialog):
+
+form_class = uic.loadUiType("ui/diver_ui.ui")[0]
+
+class Main(QDialog, form_class):
     def __init__(self, args):
         super().__init__()
         self.intput_path = None
@@ -98,6 +102,14 @@ class Main(QDialog):
 
     def process_image(self, input_path, model):
         bar = LoadingProgressBar()
+
+        lay = QVBoxLayout()
+        lay.addWidget(QLabel('Loading...'))
+        lay.addWidget(bar)
+        mainWidget = QWidget()
+        mainWidget.setLayout(lay)
+        self.setCentralWidget(mainWidget)
+
         self.main_layout.addWidget(bar)
 
         img = Image.open(input_path)
