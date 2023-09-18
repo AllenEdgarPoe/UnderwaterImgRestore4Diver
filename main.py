@@ -135,8 +135,6 @@ class WindowDiver(QMainWindow, form_class):
                 self.textEdit.append(f'Saved path : {self.args.save_path}')
 
 
-
-
         except Exception as e:
             self.textEdit.append(f'Error Occured! : {e}')
 
