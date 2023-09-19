@@ -35,7 +35,7 @@
 <img width="426" alt="image" src="https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/8e61b799-bf4e-4f1b-954c-9c8c5efe37da">
 
 ### Reulst (Image comparison)
-All of the pictures were taken by me! I went to Gili.T (Indonesia) 
+All of the pictures were taken by me @ Gili.T (Indonesia) 
 ![KakaoTalk_20230829_131022483_03](https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/e9763721-228c-4d24-bad3-7ec4203aeee4)
 ![KakaoTalk_20230829_131022483_10](https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/61ee46d6-7519-47f2-a80b-165f77114234)
 ![KakaoTalk_20230829_131022483](https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/edcbdf16-7cbf-44d5-bf91-5006d5abc678)
@@ -44,8 +44,8 @@ All of the pictures were taken by me! I went to Gili.T (Indonesia)
 ![KakaoTalk_20230829_131022483_13](https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/cf5c9891-ce5c-4861-b725-095a8cdf2645)
 
 ### Result (Video comparison)
-https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/76177e6e-2ca2-494c-b103-dd77caafaf13
 
+https://github.com/AllenEdgarPoe/UnderwaterImgRestore4Diver/assets/43398106/97c73b90-4264-451e-aa4a-e8d7292c8c94
 
 
 
