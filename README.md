@@ -16,6 +16,8 @@
   - `venv\Scripts\activate`
 - Install required libraries:
   - `pip install -r requirements.txt`
+- Download models from [models](https://drive.google.com/drive/folders/1foW7uXG0GfdGzIDQEhXA82PJryGRQ3aM)
+  - get `NU2Net_ckpt.pth` and put it in `./checkpoints/NU2Net_ckpt.pth` 
 - Start the program! 
   - `python main.py`
 

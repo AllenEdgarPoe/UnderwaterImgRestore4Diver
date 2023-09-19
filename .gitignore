@@ -1,5 +1,5 @@
 examples/
-checkpoints/
+checkpoints/*
 results
 venv/
 loadingProgressBar.py
