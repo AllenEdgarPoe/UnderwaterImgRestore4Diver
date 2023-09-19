@@ -2,7 +2,7 @@
 ## ImgRestoration for Divers!
 
 - This repository is an easy toolkit to restore the underwater image/video using Deep Learning model! 
-- It uses the model from the paper **Underwater Ranker: Learn Which is better and How to be better [AAI 2023 Oral]**
+- It uses the model from the paper **Underwater Ranker: Learn Which is better and How to be better [AAAI 2023 Oral]**
 
 
 ## Get Started
